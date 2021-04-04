@@ -1,28 +1,31 @@
-# Отчёт о тестировании <Credit Card Number Validator>
+# Отчёт о тестировании Credit Card Number Validator
 
 ## Краткое описание
-01.04.2021 - 02.04.2021 было проведено функциональное модульное тестирование валидации номера банковской карты.
+01.04.2021 - 02.04.2021гг. было проведено функциональное модульное тестирование валидации номера банковской карты.
 
-На тестирование затрачено: 2 часа.
+На тестирование затрачено: 1 час.
 
 В результате тестирования выявлены следующие дефекты:
+
 
 1. [При вводе в строку кода номеров карт American Express приложение выдает "Result is fail"](https://github.com/TLyzlova/Credit-card-test/issues/1)
 
 2. [При вводе в строку кода номеров карт Diners Club приложение выдает "Result is fail"](https://github.com/TLyzlova/Credit-card-test/issues/2)
 
 
-
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 
+
 - [Тест-кейс](https://docs.google.com/spreadsheets/d/1jcGT9YU9ixQXsOdN9whI5XYS6z8Pb6frv5mwblw8O3w/edit#gid=0)
+
 
 
 В качестве тестовых данных использовались данные с сайта:
 
-https://creditcardgenerator.in/
+[CreditCardGenerator.in](https://creditcardgenerator.in/) 
+
 
 VISA:
 
